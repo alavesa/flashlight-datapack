@@ -10,4 +10,4 @@ scoreboard objectives add fl.placed dummy
 # Constant used for the toggle math
 scoreboard players set #neg1 fl.on -1
 
-tellraw @a {"text":"[Flashlights v1.3] Loaded. Run /function flashlight:give to get a flashlight.","color":"yellow"}
+tellraw @a {"text":"[Flashlights v1.4] Loaded. Run /function flashlight:give to get a flashlight.","color":"yellow"}

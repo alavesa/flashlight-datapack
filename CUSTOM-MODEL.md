@@ -6,7 +6,9 @@ A custom 3D model is **client-side**, so it lives in a separate **resource pack*
 
 The release zip includes a ready-made starter resource pack
 (`Flashlights Resource Pack/`) with these instructions baked in
-(`HOW-TO-ADD-MODEL.txt`). Summary:
+(`HOW-TO-ADD-MODEL.txt`) **and a working example model + texture** (a simple
+grey flashlight with a yellow lens) so you can see it in game immediately — just
+overwrite `flashlight.json` / `flashlight.png` with your own. Summary:
 
 ## 1. Set the resource-pack format
 
