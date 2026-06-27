@@ -30,7 +30,7 @@ Placing or removing any block via command sends a "block update" to its neighbou
 
 ## Resource pack (optional 3D model)
 
-The datapack works on its own (the item looks like a carrot-on-a-stick). A separate resource pack can give it a custom 3D model — see the in-pack notes if you want to add one.
+The datapack works on its own (the item looks like a carrot-on-a-stick). A separate resource pack can give it a custom 3D model — see **[CUSTOM-MODEL.md](CUSTOM-MODEL.md)**. The downloadable release zip also bundles a ready-made starter resource pack with the same instructions.
 
 ## Credits
 
