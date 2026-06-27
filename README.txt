@@ -97,10 +97,14 @@ To confirm it loaded you'll see this in chat:
          spyglass.
        * Run /reload.
 
- - Leftover light blocks:
-     The beam cleans itself every tick. If the world is closed
-     mid-beam a few may remain; toggle the flashlight on/off once,
-     or replace any stray light blocks with air.
+ - Leftover / stuck light blocks (looks permanently ON):
+     Stray flashlight lights (e.g. left over from testing earlier
+     versions) have no tracking marker, so the beam can't clear them
+     and the area looks lit even with the flashlight off / not held.
+     Fix: stand near them and run   /function flashlight:cleanup
+     It removes flashlight lights (level 14) within 15 blocks but
+     KEEPS manually-placed lights (level 15). Run it again elsewhere
+     if stray lights are spread out.
 
 ------------------------------------------------------------------
 6. FILES
