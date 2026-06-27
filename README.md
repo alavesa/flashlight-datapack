@@ -1,8 +1,6 @@
 # Flashlight Datapack
 
-A small Minecraft datapack that adds a **flashlight**: right-click to toggle a beam of light that lights the way ~6 blocks ahead of you.
-
-Built — vibe-coded, really — together with my 17-year-old nephew over Discord, for the Minecraft server he's building. It took twelve versions and one very blunt QA lead (*"the light breaks even more"*). The winning move was rolling back to Version 8. 🔦
+A small Minecraft datapack that adds a **flashlight**: right-click to toggle a beam of light that lights the way ~6 blocks ahead of you. 🔦
 
 ## What it does
 
@@ -36,4 +34,4 @@ The datapack works on its own (the item looks like a carrot-on-a-stick). A separ
 
 ## Credits
 
-Made by [@alavesa](https://github.com/alavesa) with a teenage server-owner on QA, and an AI pair on the keyboard. Human-in-the-loop, the whole way. 🙂
+Built with an AI pair on the keyboard — human-in-the-loop, the whole way. 🙂
