@@ -1,5 +1,7 @@
 # Flashlight Datapack
 
+[![Reviewed by PatchPilots](https://img.shields.io/badge/Reviewed%20by-PatchPilots-8A2BE2)](https://github.com/alavesa/patchpilots)
+
 A small Minecraft datapack that adds a **flashlight**: right-click to toggle a beam of light that lights the way ~6 blocks ahead of you. 🔦
 
 ## What it does
